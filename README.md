@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FrancescoSorrentino
 - 👀 I’m interested in AI, soft computing in general, space :milky_way: and nature  :leaves:
-- 🌱 I’m currently learning Advanced Machine Leraning (Deep Learning), Computational Intelligence and Machine Learning for IoT
 - :mortar_board: Bachelor's Degree in Computer Engineering.
 - :computer: Currently enrolled: Master's Degree in Computer Engineering - Artificial Intelligence and Data Analytics
 ---
